@@ -1,4 +1,4 @@
-# 🧭 Módulo 7 — Serviços Intermediários e Avançados (AWS Cloud Foundations)
+# 🧭 Módulo 7 — Serviços Intermediários e Avançados
 
 ## 📘 Conteúdo do Módulo
 
@@ -155,11 +155,11 @@ Um fluxo pode conter etapas sequenciais, paralelas, condicionais ou com loops.
      }
    }
 
-4. Configure as permissões (IAM Role):
+4. **Configure as permissões (IAM Role):**
 
 - A Step Function precisa ter permissão para executar os serviços envolvidos (ex: Lambda, SQS, ECS).
 
-5. Salve e execute a State Machine.
+5. **Salve e execute a State Machine.**
 
 - Você pode acompanhar a execução em tempo real, visualizar logs e analisar falhas diretamente no console.
 
