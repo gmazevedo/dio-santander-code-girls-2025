@@ -1,9 +1,12 @@
-## Desafio Prático - Elaboração de Arquitetura Cloud AWS no Drawio
+# Desafio Prático - Elaboração de Arquitetura Cloud AWS no Drawio
 Para este desafio, utilizei como base a arquitetura da minha solução desenvolvida em meu TCC, mas de forma simplificada.
 
 **Contexto:** a solução proposta foi uma API que integrasse um sistema de gerenciamento de solicitações de circuitos interdomînios à uma blockchain, com o intuíto de utilizar a blockchain para realização de auditoria. O objetivo do trabalho é aumentar a confiabilidade e transparência entre os domínios do circuito.
 
+## Arquitetura da solução desenvolvida no TCC
 ![Arquitetura da solução desenvolvida no TCC](MEICAN_SM.jpg)
+
+
 # Resolução do desafio
 ![Desafio Prático - Instâncias EC2](Desafio-Instancias-EC2.png)
 
